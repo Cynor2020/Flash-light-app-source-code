@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flash Light</string>
+    <string name="turnon"> Turn on </string>
+    <string name="turnoff"> turn off </string>
+    <string name="button">Button</string>
+    <string name="ok">ok</string>
+
+</resources>
